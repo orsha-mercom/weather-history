@@ -1,3 +1,5 @@
+package by.mercom;
+
 import javax.swing.*;
 
 /**
